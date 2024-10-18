@@ -10,4 +10,4 @@
 
 ## 大模型应用开发
 
-- [自定义Chroma向量数据库的嵌入方法：以智谱AI的]
+- [自定义 Chroma 向量数据库的嵌入方法：以替换智谱 AI 的嵌入模型 embeding-3 为例](./llm/embeding_functions/zhipu_embeding_function.py)

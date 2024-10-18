@@ -7,3 +7,7 @@
 ## 转换类型
 
 - [解析 Markdown 文件内容转换为 Jupyter Notebook 格式文件](./convert/md_to_ipynb.py)
+
+## 大模型应用开发
+
+- [自定义Chroma向量数据库的嵌入方法：以智谱AI的]

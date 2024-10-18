@@ -1,15 +1,18 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# 解析Markdown内容并转换为Jupyter Notebook格式。
-# 注意：这个脚本假设Markdown文件中的代码块是正确格式化的，即代码块内的缩进是合理的。如果代码块本身就有不正确的缩进，那么这个脚本可能无法正确处理。
-# 
-# 运行示例
-# python md_to_ipynb.py [markdown_file.md] [notebook.ipynb]
+# 功能描述：
+#   解析Markdown内容并转换为Jupyter Notebook格式。
+# 注意事项：
+#   这个脚本假设Markdown文件中的代码块是正确格式化的，即代码块内的缩进是合理的。如果代码块本身就有不正确的缩进，那么这个脚本可能无法正确处理。
+# 安装依赖：
+#   pip intsall nbformat
+# 运行示例：
+#   python md_to_ipynb.py [markdown_file.md] [notebook.ipynb]
 #
 # 作者: Airmomo（https://github.com/Airmomo）
 #
-# 创建日期: 2024.10.18
+# 创建日期: 2024.10.14
 # 最后修改日期: 2024.10.18
 
 

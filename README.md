@@ -11,6 +11,7 @@
 ## 编辑类型
 
 - [合并两个文本文件中的字符串（或两个字符串），在重叠部分进行连接](./edit/text_merge.py)
+- [合并指定目录下所有的 Markdown（.md）文件](./edit/concatenate_md_files.py)
 
 ## 大模型应用开发
 

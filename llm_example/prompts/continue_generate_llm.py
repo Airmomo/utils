@@ -105,7 +105,7 @@ class ContinueGenerateLLM():
 if __name__ == "__main__":
     # 使用自定义基本URL和API密钥初始化OpenAI客户端
     client = OpenAI(base_url="https://api.deepseek.com/v1",
-                    api_key="sk-4e08d62123324dc3a42d56d528a2ca06")
+                    api_key="sk-************************")
 
     # 使用客户端和模型创建ContinueGenerateLLM实例
     llm = ContinueGenerateLLM(client=client, model="deepseek-chat")

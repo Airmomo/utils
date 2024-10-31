@@ -8,7 +8,7 @@
 # 安装依赖：
 #   无
 # 运行示例：
-#   参见 "__main__" 部分
+#   详见 "__main__" 部分
 #
 # 作者: Airmomo（https://github.com/Airmomo）
 #

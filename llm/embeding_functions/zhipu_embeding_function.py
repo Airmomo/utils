@@ -9,7 +9,7 @@
 #   pip intsall zhipuai
 #   pip intsall chromadb
 # 运行示例：
-#   详见"__main__"
+#   详见 "__main__" 部分
 #
 # 作者: Airmomo（https://github.com/Airmomo）
 #

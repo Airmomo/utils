@@ -8,6 +8,7 @@
 # 安装依赖：
 #   无
 # 运行示例：
+#   详见 "__main__" 部分;
 #   运行该脚本时，可以指定输入目录和输出文件路径，例如：concatenate_md_files('path/to/directory', 'path/to/output.md')
 #
 # 作者: Airmomo（https://github.com/Airmomo）

@@ -8,6 +8,7 @@
 # 安装依赖：
 #   pip intsall nbformat
 # 运行示例：
+#   详见 "__main__" 部分;
 #   python md_to_ipynb.py [markdown_file.md] [notebook.ipynb]
 #
 # 作者: Airmomo（https://github.com/Airmomo）

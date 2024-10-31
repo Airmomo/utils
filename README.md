@@ -10,9 +10,10 @@
 
 ## 编辑类型
 
-- [合并两个文本文件中的字符串（或两个字符串），在重叠部分进行连接](./edit/text_merge.py)
-- [合并指定目录下所有的 Markdown（.md）文件](./edit/concatenate_md_files.py)
+- [连接指定目录下所有的 Markdown（.md）文件](./edit/concatenate_md_files.py)
+- [连接两个文本文件中的字符串（或两个字符串），在它们的最大重叠部分进行连接](./edit/text_merge.py)
+- [连接一组字符串，从俩俩之间的最大重叠部分开始连接。如果字符串之间没有重叠部分，则直接连接](./edit/overlap_join_array.py)
 
-## 大模型应用开发
+## 大模型应用开发示例
 
-- [自定义 Chroma 向量数据库的嵌入方法：以替换智谱 AI 的嵌入模型 embeding-3 为例](./llm/embeding_functions/zhipu_embeding_function.py)
+- [自定义 Chroma 向量数据库的嵌入方法：以替换智谱 AI 的嵌入模型 embeding-3 为例](./llm_example/embeding_functions/zhipu_embeding_function.py)

@@ -104,11 +104,11 @@ class ContinueGenerateLLM():
 
 if __name__ == "__main__":
     # 使用自定义基本URL和API密钥初始化OpenAI客户端
-    client = OpenAI(base_url="https://api.deepseek.com/v1",
+    client = OpenAI(base_url="https://api.********.com/v1",
                     api_key="sk-************************")
 
     # 使用客户端和模型创建ContinueGenerateLLM实例
-    llm = ContinueGenerateLLM(client=client, model="deepseek-chat")
+    llm = ContinueGenerateLLM(client=client, model="model_name")
 
     # 从文件中读取长文本内容
     with open("llm_example/test/long_content.md", "r") as f:

@@ -17,3 +17,4 @@
 ## 大模型应用开发示例
 
 - [自定义 Chroma 向量数据库的嵌入方法：以替换智谱 AI 的嵌入模型 embeding-3 为例](./llm_example/embeding_functions/zhipu_embeding_function.py)
+- [长文本生成续写模型：在模型生成文本时，即使由于长度限制在中途被截断，也能继续生成剩余的部分，最终返回完整的文本](./llm_example/prompts/continue_generate_llm.py)
